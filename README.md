@@ -6,8 +6,8 @@
 # Variables de entorno
 Las variables de entorno se definen en el archivo `.env` que debes crear junto a los demás archivos del proyecto. son valores necesarios para poder ajustar el programa a tus necesidades.
 
-- **OPENAI_API_KEY**: La ApiKey del proyecto de [OpenAi]() a utilizar.
-- **DISCORD_TOKEN**: El token del [bot de Discord]().
+- **OPENAI_API_KEY**: La ApiKey del proyecto de OpenAi a utilizar.
+- **DISCORD_TOKEN**: El token del bot de Discord.
 - **OPERATORS**: Una lista con los IDs de los usuarios de Discord que pueden utilizar el bot.
 
 Ejemplo de archivo:
