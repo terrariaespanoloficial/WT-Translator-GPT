@@ -1,5 +1,5 @@
 # Configuración
-1. Requieres tener instalado [Node]() (v20.15.1 o superior) para correr este proyecto.
+1. Requieres tener instalado [Node](https://nodejs.org/es) (v20.15.1 o superior) para correr este proyecto.
 2. Con Node instalado, ejecuta el comando `npm i` en una consola desde el directorio del proyecto para empezar a descargar todos los paquetes necesarios.
 3. Configura las variables de entorno.
 
@@ -18,4 +18,5 @@ OPERATORS=["1234567890123", "9876543210987"]
 ```
 
 # Ejecución
-Una vez configurado todo el proyecto puedes empezar a utilizarlo ejecutando el comando `npx ts-node src/index.ts` en una consola desde el directorio del proyecto.
+Una vez configurado todo el proyecto puedes empezar a utilizarlo ejecutando el comando `npx ts-node source/index.ts` en una consola desde el directorio del proyecto.
+El bot en discord se mostrará activo y detendrá su actividad una vez se cierre la consola.
